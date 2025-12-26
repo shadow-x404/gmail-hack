@@ -37,9 +37,11 @@ def artwork():
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝        
 ⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
 *******************************************************
-* Author   : SHADOW-X
+☣️            BACKBENCHER HACKING TEAM 
+*******************************************************
+* Author   : Backbenchers Owner
 *Facebook : M-HOSSAIN
-* GitHub   : 👁️‍🗨️👁️‍🗨️
+* GitHub   : You Hacker...??
 * Instagram: 404 NOT FOUND
 * password : passworld.txt
 *************USE VPN OR TOR SERVICE********************
@@ -82,3 +84,4 @@ for password in passswfile:
         print("[-] Pasword Is Wrong. %s " % password)
         # Author  : SHADOW-X
         #thank you hackers
+
