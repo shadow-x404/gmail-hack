@@ -37,7 +37,7 @@ def artwork():
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝        
 ⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
 *******************************************************
-☣️            BACKBENCHER HACKING TEAM 
+☣️            BACKBENCHER HACKING TEAM               ☣️
 *******************************************************
 * Author   : Backbenchers Owner
 *Facebook : M-HOSSAIN
@@ -84,4 +84,5 @@ for password in passswfile:
         print("[-] Pasword Is Wrong. %s " % password)
         # Author  : SHADOW-X
         #thank you hackers
+
 
